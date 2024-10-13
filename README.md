@@ -5,7 +5,7 @@
 ## 🚀 Project Overview
 The **Auto-Complete Text Search Engine** is a real-time search tool designed to provide fast and efficient word suggestions as you type. This project uses the **Trie Data Structure** to enhance the search experience by providing dynamic word suggestions, ranking popular words, and handling errors seamlessly.
 
-<img src="https://your-image-url.com" alt="Autocomplete Search Engine" width="600"/>
+
 
 ---
 

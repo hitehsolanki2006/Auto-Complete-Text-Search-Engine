@@ -1,0 +1,59 @@
+/* Default Dark Theme */
+body {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+input, .btn, .list-group-item {
+    background-color: #333;
+    border: none;
+    color: #32cd32; /* Text color for input and buttons */
+}
+
+#suggestions li {
+    color: #32cd32;
+}
+
+.list-group-item:hover {
+    background-color: #454545;
+}
+
+.btn-outline-light {
+    color: #32cd32;
+    border-color: #32cd32;
+}
+
+.btn-outline-light:hover {
+    background-color: #32cd32;
+    color: #000;
+}
+
+/* Light Theme */
+.light-theme {
+    background-color: #f8f9fa;
+    color: #000;
+}
+
+.light-theme input, .light-theme .btn, .light-theme .list-group-item {
+    background-color: #ffffff;
+    border: 1px solid #32cd32;
+    color: #000; /* Dark text color for readability */
+}
+
+.light-theme #suggestions li {
+    color: #007bff; /* Blue suggestions for light theme */
+}
+
+.light-theme .list-group-item:hover {
+    background-color: #e9ecef;
+}
+
+.light-theme .btn-outline-light {
+    color: #007bff;
+    border-color: #007bff;
+}
+
+.light-theme .btn-outline-light:hover {
+    background-color: #007bff;
+    color: #fff;
+}

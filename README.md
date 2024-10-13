@@ -1,4 +1,4 @@
-# Auto-Complete Text Search Engine
+   # Auto-Complete Text Search Engine
 
 ![Autocomplete Search](https://img.shields.io/badge/Algorithm-Trie-orange) ![Python](https://img.shields.io/badge/Backend-Python-blue) ![HTML](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 
@@ -58,7 +58,20 @@ To run the project locally, follow these steps:
     python app.py
 
 4. Open the index.html file in your browser to start using the auto-complete search engine.
+  
+  
+📂 Project Structure
 
+autocomplete-text-search/
+│
+├── app.py               # Backend server logic (Python)
+├── static/
+│   ├── styles.css       # CSS for styling the frontend
+│   └── script.js        # JavaScript for handling user interactions
+├── templates/
+│   └── index.html       # Frontend UI (HTML)
+└── trie.py              # Trie data structure implementation
+   
 🚀 Use Cases
 Search Engines: Improve the user experience by providing real-time search suggestions.
 Text Editors: Enhance text input with auto-complete features.
@@ -68,4 +81,11 @@ Forms and Input Fields: Provide users with relevant suggestions as they type in 
 The Auto-Complete Text Search Engine demonstrates how efficient and user-friendly search systems can be<br>
 implemented using the Trie data structure. It can be further expanded to handle large datasets and used in<br>
 various applications requiring real-time search suggestions.
+
+👥 Contributors
+Hitesh - Backend, Trie Data Structure
+Kirti P. Yadav - Frontend Design, Error Handling
+Swayam B. Panchal - Word Ranking, Suggestion Logic
+
+<p align="center"> Made with ❤️ by the Auto-Complete Text Search Engine Team </p> ```
 
